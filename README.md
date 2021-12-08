@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ghoulhex](https://github.com/ghoulhex)
 
-- 📫 How to reach me **juan.ig.1999@gmail.com**
+- 📫 How to reach me **juan.ign.1999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
