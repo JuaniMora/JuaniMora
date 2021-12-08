@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghoulhex&label=Profile%20views&color=000000&style=flat-square" alt="ghoulhex" /> </p>
 
-- 🌱 I’m currently learning **Fullstack Development**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ghoulhex](https://github.com/ghoulhex)
 
