@@ -41,5 +41,5 @@
 </p>
 
 <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=ghoulhex&show_icons=true&theme=dark&locale=en"
-        alt="ghoulhex" /></p>
+        src="https://github-readme-stats.vercel.app/api?username=juanimora&show_icons=true&theme=dark&locale=en"
+        alt="juanimora" /></p>
