@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Fullstack Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ghoulhex](https://github.com/juanimora)
+- 👨‍💻 All of my projects are available at [https://github.com/juanimora](https://github.com/juanimora)
 
 - 📫 How to reach me **juan.ign.1999@gmail.com**
 
